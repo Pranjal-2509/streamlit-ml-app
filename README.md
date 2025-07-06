@@ -6,6 +6,6 @@
 link here
 
 ## 📝 Features
-Interactive data input form
-Real-time predictions
+Interactive data input form  
+Real-time predictions  
 Visualizations of model outputs (e.g. probability, decision boundary, feature importance)
