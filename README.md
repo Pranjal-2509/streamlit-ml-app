@@ -3,7 +3,7 @@
 **This is a Streamlit web app that allows users to input data, get predictions from a trained machine learning model, and visualize the model outputs.**
 
 ## 🔗 Live Demo
-link here
+https://cancer-predictify.streamlit.app/
 
 ## 📝 Features
 Interactive data input form  
